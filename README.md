@@ -2,7 +2,7 @@
 
 **ASP.NET Core WebAPI для приёма, валидации и агрегации time‑series CSV данных в PostgreSQL (EF Core + Docker + Swagger).**
 
-## Структура репозитория
+## Структура проекта
  ```bash
 .
 ├── TimescaleApi.sln
@@ -54,5 +54,5 @@
 4. **Откройте Swagger UI в браузере**
 
    ```bash
-   https://localhost:5000/swagger
+   http://localhost:5000/swagger
    ```
